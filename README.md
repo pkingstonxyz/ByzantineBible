@@ -116,3 +116,5 @@ As for the texts I'll be including the following texts in the written order:
  ---
 
  Obviously, it may be difficult to fit all of these into one book, but I will do my best. I believe it will be possible for the Old and New testaments, but it may be difficult for the Influential and Apostolic books. I will be prioritizing the Old and New testaments if this occurs. 
+
+ Sources for Influential and Apostolic texts coming from [Text Excavation](http://textexcavation.com/texts.html)
