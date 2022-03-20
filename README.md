@@ -10,7 +10,7 @@ The texts I'm using are fairly outdated, but they have a license I can safely us
 
 As for the texts I'll be including the following texts in the written order:
 
-Old testament
+### Old testament
  - Law
  1. Genesis
  1. Exodus
@@ -65,3 +65,54 @@ Old testament
  1. Letter of Jeremiah
  1. Ezekiel
  1. Daniel
+
+### New Testament
+ - History
+ 1. John
+ 1. Mark
+ 1. Matthew
+ 1. Luke
+ 1. Acts
+ - Catholic Epistles
+ 1. James
+ 1. 1 Peter
+ 1. 2 Peter
+ 1. 1 John
+ 1. 2 John
+ 1. 3 John
+ 1. Jude
+ - Pauline Epistles
+ 1. Romans
+ 1. 1 Corinthians
+ 1. 2 Corinthians
+ 1. Galatians
+ 1. Ephesians
+ 1. Philippians
+ 1. Colossians
+ 1. 1 Thessalonians
+ 1. 2 Thessalonians
+ 1. Hebrews
+ 1. 1 Timothy
+ 1. 2 Timothy
+ 1. Titus
+ 1. Philemon
+ - Apocalypse
+ 1. Revelation
+
+### Influetial & Apostolic
+ - Old Testament
+ 1. Enoch
+ 1. Psalms of Solomon
+ 1. Odes
+ 1. 4 Maccabees
+ - Apostolic
+ 1. 1 Clement
+ 1. 2 Clement
+ 1. Shepherd of Hermas
+ 1. Epistle of Barnabas
+ 1. Didache
+ 1. Protoevangelium of James
+
+ ---
+
+ Obviously, it may be difficult to fit all of these into one book, but I will do my best. I believe it will be possible for the Old and New testaments, but it may be difficult for the Influential and Apostolic books. I will be prioritizing the Old and New testaments if this occurs. 
