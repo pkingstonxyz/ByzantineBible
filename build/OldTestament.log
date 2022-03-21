@@ -1,0 +1,3868 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2021.12.28)  20 MAR 2022 22:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**OldTestament.tex
+(./OldTestament.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(/usr/share/texmf-dist/tex/latex/extsizes/extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen138
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/11/29 3.67 The Babel package
+\babel@savecnt=\count188
+\U@D=\dimen140
+\l@unhyphenated=\language87
+
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+\bbl@dirlevel=\count189
+
+(/usr/share/texmf-dist/tex/generic/babel-greek/greek.ldf
+Language: greek 2020/11/10 v1.10 Greek support for the babel system
+\bbl@monogreek=\count190
+\bbl@polygreek=\count191
+\bbl@ancientgreek=\count192
+
+(/usr/share/texmf-dist/tex/latex/greek-fontenc/tuenc-greek.def
+File: tuenc-greek.def 2020/10/13 2.0 Greek LICRs for XeTeX and LuaTeX
+
+(/usr/share/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))))
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(/usr/share/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
+
+(/usr/share/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))
+LaTeX Font Info:    Trying to load font information for LGR+lmr on input line 1
+12.
+
+(/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrlmr.fd
+File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
+))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-11-22 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-12-14 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count193
+\l__color_backend_stack_int=\count194
+\g__color_backend_stack_int=\count195
+\g__graphics_track_int=\count196
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count197
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
+))
+Package: xparse 2021-11-12 L3 Experimental document command parser
+)
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count266
+\l__fontspec_language_int=\count267
+\l__fontspec_strnum_int=\count268
+\l__fontspec_tmp_int=\count269
+\l__fontspec_tmpa_int=\count270
+\l__fontspec_tmpb_int=\count271
+\l__fontspec_tmpc_int=\count272
+\l__fontspec_em_int=\count273
+\l__fontspec_emdef_int=\count274
+\l__fontspec_strong_int=\count275
+\l__fontspec_strongdef_int=\count276
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
+
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: Font family 'GFSArtemisia(0)' created for font 'GFS
+(fontspec)             Artemisia' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"GFS
+(fontspec)             Artemisia/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"GFS
+(fontspec)             Artemisia/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"GFS
+(fontspec)             Artemisia/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"GFS
+(fontspec)             Artemisia/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"GFS
+(fontspec)             Artemisia/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks17
+) (./OldTestament.aux)
+\openout1 = `OldTestament.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+4.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 1
+4.
+
+(/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 14.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 14.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 14.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 14.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 14.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 14.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 14.
+LaTeX Font Info:    Redeclaring math accent \check on input line 14.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 14.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/GFSArtemisia(0)/m/n on input line 14
+.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/GFSArtemisia(0)/m/n on input line 1
+4.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/GFSArtemisia(0)/m/n --> TU/GFSArtemisia(0)/m/n on in
+put line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/GFSArtemisia(0)/m/it on input line 
+14.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/GFSArtemisia(0)/b/n on input line 1
+4.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/GFSArtemisia(0)/m/n --> TU/GFSArtemisia(0)/b/n on in
+put line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/GFSArtemisia(0)/b/it on input line
+ 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 289.08002pt, 144.54pt)
+* v-part:(T,H,B)=(108.405pt, 505.89pt, 108.405pt)
+* \paperwidth=505.89pt
+* \paperheight=722.7pt
+* \textwidth=289.08002pt
+* \textheight=505.89pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=72.27pt
+* \topmargin=-0.86499pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=9.0pt
+* \footskip=30.0pt
+* \marginparwidth=131.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [3]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [9]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [15]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [40]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [41]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [42]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [45]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [48]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [49]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [50]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [57]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [58]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [59]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [60]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [61]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [62]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [63]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [65]
+[66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [68]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [69]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [70]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [73]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [74]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [75]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [77]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [79]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [81]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [82]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [84]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [85]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86]
+[87]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [89]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [90]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [91]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [92]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [93]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [95]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [96]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [99]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [100]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [101]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [103]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [104]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [105]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [106]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [107]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [108]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [110]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [111]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [113]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [114]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [115]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [116]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [117]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [118]
+[119]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [120]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [121]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [122]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [123]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [124]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [125]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [126]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [127]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [128]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [129]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [130]
+[131]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [132]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [134]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [135]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [136]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [137]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [138]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [139]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [140]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [141]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [142]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [143]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [144]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [145]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [146]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [147]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [148]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [149]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [150]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [152]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [153]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [154]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [155]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [156]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [158]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [159]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [160]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [161]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [162]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [164]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [165]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [166]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [167]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [168]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [169]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [170]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [171]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [172]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [173]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [174]
+[175]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [176]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [177]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [178]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [179]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [180]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [181]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [182]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [183]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [184]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [185]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [186]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [187]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [188]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [189]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [190]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [191]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [192]
+[193]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [194]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [195]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [196]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [197]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [198]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [199]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [200]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [201]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [202]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [203]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [204]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [205]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [206]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [207]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [208]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [209]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [210]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [211]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [212]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [213]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [214]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [215]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [216]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [217]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [218]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [219]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [220]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [221]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [222]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [223]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [224]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [225]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [226]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [227]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [228]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [229]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [230]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [231]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [232]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [233]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [234]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [235]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [236]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [237]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [238]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [239]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [240]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [241]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [242]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [243]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [244]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [245]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [246]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [247]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [248]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [249]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [250]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [251]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [252]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [253]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [254]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [255]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [256]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [257]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [258]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [259]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [260]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [261]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [262]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [263]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [264]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [265]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [266]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [267]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [268]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [269]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [270]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [271]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [272]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [273]
+[274]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [275]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [276]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [277]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [278]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [279]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [280]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [281]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [282]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [283]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [284]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [285]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [286]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [287]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [288]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [289]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [290]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [291]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [292]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [293]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [294]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [295]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [296]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [297]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [298]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [299]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [300]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [301]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [302]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [303]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [304]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [305]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [306]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [307]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [308]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [309]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [310]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [311]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [312]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [313]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [314]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [315]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [316]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [317]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [318]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [319]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [320]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [321]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [322]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [323]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [324]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [325]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [326]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [327]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [328]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [329]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [330]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [331]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [332]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [333]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [334]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [335]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [336]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [337]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [338]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [339]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [340]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [341]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [342]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [343]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [344]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [345]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [346]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [347]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [348]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [349]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [350]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [351]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [352]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [353]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [354]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [355]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [356]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [357]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [358]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [359]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [360]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [361]
+[362]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [363]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [364]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [365]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [366]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [367]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [368]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [369]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [370]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [371]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [372]
+[373]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [374]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [375]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [376]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [377]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [378]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [379]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [380]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [381]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [382]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [383]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [384]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [385]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [386]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [387]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [388]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [389]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [390]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [391]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [392]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [393]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [394]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [395]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [396]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [397]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [398]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [399]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [400]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [401]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [402]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [403]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [404]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [405]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [406]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [407]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [408]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [409]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [410]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [411]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [412]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [413]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [414]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [415]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [416]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [417]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [418]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [419]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [420]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [421]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [422]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [423]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [424]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [425]
+[426]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [427]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [428]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [429]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [430]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [431]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [432]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [433]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [434]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [435]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [436]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [437]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [438]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [439]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [440]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [441]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [442]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [443]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [444]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [445]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [446]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [447]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [448]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [449]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [450]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [451]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [452]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [453]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [454]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [455]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [456]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [457]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [458]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [459]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [460]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [461]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [462]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [463]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [464]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [465]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [466]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [467]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [468]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [469]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [470]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [471]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [472]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [473]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [474]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [475]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [476]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [477]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [478]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [479]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [480]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [481]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [482]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [483]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [484]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [485]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [486]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [487]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [488]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [489]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [490]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [491]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [492]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [493]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [494]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [495]
+[496]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [497]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [498]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [499]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [500]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [501]
+[502]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [503]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [504]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [505]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [506]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [507]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [508]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [509]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [510]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [511]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [512]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [513]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [514]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [515]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [516]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [517]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [518]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [519]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [520]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [521]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [522]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [523]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [524]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [525]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [526]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [527]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [528]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [529]
+[530]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [531]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [532]
+[533]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [534]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [535]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [536]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [537]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [538]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [539]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [540]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [541]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [542]
+[543]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [544]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [545]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [546]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [547]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [548]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [549]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [550]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [551]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [552]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [553]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [554]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [555]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [556]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [557]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [558]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [559]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [560]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [561]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [562]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [563]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [564]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [565]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [566]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [567]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [568]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [569]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [570]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[571]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [572]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [573]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [574]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [575]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [576]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [577]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [578]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [579]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [580]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [581]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [582]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [583]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [584]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [585]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [586]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [587]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [588]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [589]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [590]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [591]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [592]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [593]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [594]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [595]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [596]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [597]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [598]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [599]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [600]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [601]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [602]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [603]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [604]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [605]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [606]
+[607]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [608]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [609]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [610]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [611]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [612]
+[613]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [614]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [615]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [616]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [617]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [618]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [619]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [620]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [621]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [622]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [623]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [624]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [625]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [626]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [627]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [628]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [629]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [630]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [631]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [632]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [633]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [634]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [635]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [636]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [637]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [638]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [639]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [640]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [641]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [642]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [643]
+[644]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [645]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [646]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [647]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [648]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [649]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [650]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [651]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [652]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [653]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [654]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [655]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [656]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [657]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [658]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [659]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [660]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [661]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [662]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [663]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [664]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [665]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [666]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [667]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [668]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [669]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [670]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [671]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [672]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [673]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [674]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [675]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [676]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [677]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [678]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [679]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [680]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [681]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [682]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [683]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [684]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [685]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [686]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [687]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [688]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [689]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [690]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [691]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [692]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [693]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [694]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [695]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [696]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [697]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [698]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [699]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [700]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [701]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [702]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [703]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [704]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [705]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [706]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [707]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [708]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [709]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [710]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [711]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [712]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [713]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [714]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [715]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [716]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [717]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [718]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [719]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [720]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [721]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [722]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [723]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [724]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [725]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [726]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [727]
+[728] [729] [730] [731] [732] [733] [734]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [735]
+[736] [737] [738] [739] [740] [741] [742]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [743]
+[744]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [745]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [746]
+[747] [748] [749] [750] [751]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [752]
+[753] [754] [755] [756] [757] [758] [759]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [760]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [761]
+[762] [763]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [764]
+[765] [766]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [767]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [768]
+[769] [770] [771] [772]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [773]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [774]
+[775] [776] [777] [778]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [779]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [780]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [781]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [782]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [783]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [784]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [785]
+[786] [787] [788]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [789]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [790]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [791]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [792]
+[793] [794] [795] [796] [797] [798] [799] [800] [801] [802] [803]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [804]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [805]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [806]
+[807]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [808]
+[809]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [810]
+[811] [812]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [813]
+[814] [815]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [816]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [817]
+[818] [819] [820] [821]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [822]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [823]
+[824]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [825]
+[826]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [827]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [828]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [829]
+[830]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [831]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [832]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [833]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [834]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [835]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [836]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [837]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [838]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [839]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [840]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [841]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [842]
+[843]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [844]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [845]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [846]
+[847]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [848]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [849]
+[850]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [851]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [852]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [853]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [854]
+[855]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [856]
+[857]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [858]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [859]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [860]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [861]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [862]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [863]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [864]
+[865]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [866]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [867]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [868]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [869]
+[870]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [871]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [872]
+[873]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [874]
+[875]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [876]
+[877] [878] [879] [880]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [881]
+[882]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [883]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [884]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [885]
+[886]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [887]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [888]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [889]
+[890]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [891]
+[892]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [893]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [894]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [895]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [896]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [897]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [898]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [899]
+[900]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [901]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [902]
+[903]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [904]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [905]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [906]
+[907]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [908]
+[909]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [910]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [911]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [912]
+[913]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [914]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [915]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [916]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [917]
+[918]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [919]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [920]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [921]
+[922]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [923]
+[924]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [925]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [926]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [927]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [928]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [929]
+[930]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [931]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [932]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [933]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [934]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [935]
+Overfull \hbox (2.43683pt too wide) in paragraph at lines 24935--24953
+[]\TU/GFSArtemisia(0)/m/n/9 ΣΕΙΡΑΧ. 49. Μνημόσυνον Ἰωσίου εἰς σύνθεσιν θυμιάματ
+ος, ἐσκευα-
+ []
+
+[936]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [937]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [938]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [939]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[940]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [941]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [942]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[943]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [944]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[945]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[946]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [947]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [948]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [949]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [950]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[951]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [952]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [953]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[954]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [955]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[956]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [957]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [958]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[959]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [960]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[961]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [962]
+Missing character: There is no ϛ (U+03DB) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [963]
+Missing character: There is no ϛ (U+03DB) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ϛ (U+03DB) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[964]
+Missing character: There is no ϛ (U+03DB) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[965]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[966]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [967]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [968]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [969]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [970]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [971]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [972]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [973]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[974]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [975]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [976]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[977]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[978]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [979]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[980]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [981]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [982]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [983]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+[984]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [985]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [986]
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
+pt=latn;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [987]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [988]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [989]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [990]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [991]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [992]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [993]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [994]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [995]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [996]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [997]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [998]
+[999]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1000]
+[1001]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1002]
+[1003]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1004]
+[1005]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1006]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1007]
+[1008]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1009]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1010]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1011]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1012]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1013]
+[1014]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1015]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1016]
+[1017]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1018]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1019]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1020]
+[1021]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1022]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1023]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1024]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1025]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1026]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1027]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1028]
+[1029]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1030]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1031]
+[1032]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1033]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1034]
+[1035]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1036]
+[1037]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1038]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1039]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1040]
+[1041]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1042]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1043]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1044]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1045]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1046]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1047]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1048]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1049]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1050]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1051]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1052]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1053]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1054]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1055]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1056]
+[1057]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1058]
+[1059]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1060]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1061]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1062]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1063]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1064]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1065]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1066]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1067]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1068]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1069]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1070]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1071]
+[1072]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1073]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1074]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1075]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1076]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1077]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1078]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1079]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1080]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1081]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1082]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1083]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1084]
+[1085]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1086]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1087]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1088]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1089]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1090]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1091]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1092]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1093]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1094]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1095]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1096]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1097]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1098]
+[1099]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1100]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1101]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1102]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1104]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1105]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1106]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1107]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1108]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1109]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1110]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1111]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1112]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1113]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1114]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1115]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1116]
+[1117]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1118]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1119]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1120]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1121]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1122]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1123]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1124]
+[1125]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1126]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1127]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1128]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1129]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1130]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1131]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1132]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1133]
+[1134]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1135]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1136]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1137]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1138]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1139]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1140]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1141]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1142]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1143]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1144]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1145]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1146]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1147]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1148]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1149]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1150]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1151]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1152]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1153]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1154]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1155]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1156]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1157]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1158]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1159]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1160]
+[1161]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1162]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1163]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1164]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1165]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1166]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1167]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1168]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1169]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1170]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1171]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1172]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1173]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1174]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1175]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1176]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1177]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1178]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1179]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1180]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1181]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1182]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1183]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1184]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1185]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1186]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1187]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1188]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1189]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1190]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1191]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1192]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1193]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1194]
+Underfull \vbox (badness 7081) has occurred while \output is active []
+
+ [1195]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1196]
+[1197] (./OldTestament.aux) ) 
+Here is how much of TeX's memory you used:
+ 5771 strings out of 476257
+ 151228 string characters out of 5816918
+ 596890 words of memory out of 5000000
+ 26423 multiletter control sequences out of 15000+600000
+ 404216 words of font info for 39 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 73i,6n,85p,600b,230s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on OldTestament.pdf (1197 pages).
