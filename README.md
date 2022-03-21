@@ -101,9 +101,7 @@ As for the texts I'll be including the following texts in the written order:
 
 ### Influetial & Apostolic
  - Old Testament
- 1. Enoch
  1. Psalms of Solomon
- 1. Odes
  1. 4 Maccabees
  - Apostolic
  1. 1 Clement
