@@ -111,7 +111,6 @@ As for the texts I'll be including the following texts in the written order:
  1. Shepherd of Hermas
  1. Epistle of Barnabas
  1. Didache
- 1. Protoevangelium of James
 
  ---
 
