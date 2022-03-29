@@ -1,0 +1,98 @@
+\babel@toc {greek}{}\relax 
+\contentsline {part}{I\hspace {1em}Old Testament}{5}{}%
+\contentsline {chapter}{\numberline {1}ΓΕΝΕΣΙΣ}{7}{}%
+\contentsline {chapter}{\numberline {2}ΕΞΟΔΟΣ}{58}{}%
+\contentsline {chapter}{\numberline {3}ΛΕΥΙΤΙΚΟΝ}{99}{}%
+\contentsline {chapter}{\numberline {4}ΑΡΙΘΜΟΙ}{130}{}%
+\contentsline {chapter}{\numberline {5}ΔΕΥΤΕΡΟΝΟΜΙΟΝ}{172}{}%
+\contentsline {chapter}{\numberline {6}ΙΗΣΟΥΣ ΝΑΥΗ}{208}{}%
+\contentsline {chapter}{\numberline {7}ΙΗΣΟΥΣ}{209}{}%
+\contentsline {chapter}{\numberline {8}ΚΡΙΤΑΙ}{233}{}%
+\contentsline {chapter}{\numberline {9}ΡΟΥΘ}{259}{}%
+\contentsline {chapter}{\numberline {10}ΒΑΣΙΛΕΙΩΝ Α}{263}{}%
+\contentsline {chapter}{\numberline {11}ΒΑΣΙΛΕΙΩΝ Β}{295}{}%
+\contentsline {chapter}{\numberline {12}ΒΑΣΙΛΕΙΩΝ Γ}{324}{}%
+\contentsline {chapter}{\numberline {13}ΒΑΣΙΛΕΙΩΝ Δ}{358}{}%
+\contentsline {chapter}{\numberline {14}ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Α}{389}{}%
+\contentsline {chapter}{\numberline {15}ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Β}{416}{}%
+\contentsline {chapter}{\numberline {16}ΕΣΔΡΑΣ. Αʹ}{451}{}%
+\contentsline {chapter}{\numberline {17}ΕΣΔΡΑΣ}{467}{}%
+\contentsline {chapter}{\numberline {18}ΤΩΒΙΤ}{490}{}%
+\contentsline {chapter}{\numberline {19}ΙΟΥΔΙΘ}{500}{}%
+\contentsline {chapter}{\numberline {20}ΕΣΘΗΡ}{516}{}%
+\contentsline {chapter}{\numberline {21}ΜΑΚΚΑΒΑΙΩΝ Αʹ}{527}{}%
+\contentsline {chapter}{\numberline {22}ΜΑΚΚΑΒΑΙΩΝ Βʹ}{559}{}%
+\contentsline {chapter}{\numberline {23}ΜΑΚΚΑΒΑΙΩΝ Γʹ}{582}{}%
+\contentsline {chapter}{\numberline {24}ΨΑΛΜΟΙ}{592}{}%
+\contentsline {chapter}{\numberline {25}ΠΡΟΣΕΥΧΗ ΜΑΝΑΣΣΗ ΥΙΟΥ ΕΖΕΚΙΟΥ}{650}{}%
+\contentsline {chapter}{\numberline {26}ΙΩΒ}{651}{}%
+\contentsline {chapter}{\numberline {27}ΙΕΖΕΚΙΗΛ}{674}{}%
+\contentsline {chapter}{\numberline {28}ΠΑΡΟΙΜΙΑΙ ΕΑΛΩΜΩΝΤΟΣ}{682}{}%
+\contentsline {chapter}{\numberline {29}ΠΑΡΟΙΜΙΑΙ}{683}{}%
+\contentsline {chapter}{\numberline {30}ΕΚΚΛΗΣΙΑΣΤΗΣ}{703}{}%
+\contentsline {chapter}{\numberline {31}ΑΣΜΑ}{711}{}%
+\contentsline {chapter}{\numberline {32}ΣΟΦΙΑ ΣΑΛΩΜΩΝ}{715}{}%
+\contentsline {chapter}{\numberline {33}ΣΟΦΙΑ}{716}{}%
+\contentsline {chapter}{\numberline {34}ΣΟΦΙΑ ΣΕΙΡΑΧ}{729}{}%
+\contentsline {chapter}{\numberline {35}ΣΕΙΡΑΧ}{731}{}%
+\contentsline {chapter}{\numberline {36}ΩΣΗΕ. Αʹ}{763}{}%
+\contentsline {chapter}{\numberline {37}ΑΜΩΣ. Βʹ}{770}{}%
+\contentsline {chapter}{\numberline {38}ΜΙΧΑΙΑΣ. Γʹ}{776}{}%
+\contentsline {chapter}{\numberline {39}ΙΩΗΛ. Δʹ}{781}{}%
+\contentsline {chapter}{\numberline {40}ΟΒΔΕΙΟΥ. Εʹ}{784}{}%
+\contentsline {chapter}{\numberline {41}ΙΩΝΑΣ. ςʹ}{786}{}%
+\contentsline {chapter}{\numberline {42}ΝΑΟΥΜ. Ζʹ}{788}{}%
+\contentsline {chapter}{\numberline {43}ΑΜΒΑΚΟΥΜ. Ηʹ}{790}{}%
+\contentsline {chapter}{\numberline {44}ΜΑΛΑΧΙΑΣ. ΙΒʹ}{793}{}%
+\contentsline {chapter}{\numberline {45}ΣΟΦΟΝΙΑΣ. Θʹ}{795}{}%
+\contentsline {chapter}{\numberline {46}ΑΓΓΑΙΟΣ. Ιʹ}{798}{}%
+\contentsline {chapter}{\numberline {47}ΖΑΧΑΡΙΑΣ. ΙΑʹ}{800}{}%
+\contentsline {chapter}{\numberline {48}ΜΑΛΑΧΙΑΣ. ΙΒʹ}{809}{}%
+\contentsline {chapter}{\numberline {49}ΗΣΑΙΑΣ}{811}{}%
+\contentsline {chapter}{\numberline {50}ΙΕΡΕΜΙΑΣ}{856}{}%
+\contentsline {chapter}{\numberline {51}ΒΑΡΟΥΧ}{904}{}%
+\contentsline {chapter}{\numberline {52}ΘΡΗΝΟΙ ΙΕΡΕΜΙΟΥ}{909}{}%
+\contentsline {chapter}{\numberline {53}ΘΡΗΝΟΙ}{911}{}%
+\contentsline {chapter}{\numberline {54}ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ}{915}{}%
+\contentsline {chapter}{\numberline {55}ΙΕΖΕΚΙΗΛ}{918}{}%
+\contentsline {chapter}{\numberline {56}ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ}{958}{}%
+\contentsline {chapter}{\numberline {57}ΔΑΝΙΗΛ (Ελληνικά)}{960}{}%
+\contentsline {chapter}{\numberline {58}ΣΩΣΑΝΝΑ}{977}{}%
+\contentsline {chapter}{\numberline {59}ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ}{980}{}%
+\contentsline {part}{II\hspace {1em}New Testament}{982}{}%
+\contentsline {chapter}{\numberline {60}ΚΑΤΑ ΙΩΑΝΝΗΝ}{984}{}%
+\contentsline {chapter}{\numberline {61}ΚΑΤΑ ΜΑΡΚΟΝ}{1008}{}%
+\contentsline {chapter}{\numberline {62}ΚΑΤΑ ΜΑΘΘΑΙΟΝ}{1028}{}%
+\contentsline {chapter}{\numberline {63}ΚΑΤΑ ΜΑΤΘΑΙΟΝ}{1029}{}%
+\contentsline {chapter}{\numberline {64}ΚΑΤΑ ΛΟΥΚΑΝ}{1059}{}%
+\contentsline {chapter}{\numberline {65}ΠΡΑΞΕΙΣ ΑΠΟΣΤΟΛΩΝ}{1091}{}%
+\contentsline {chapter}{\numberline {66}ΠΡΟΣ ΡΩΜΑΙΟΥΣ}{1123}{}%
+\contentsline {chapter}{\numberline {67}ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α}{1135}{}%
+\contentsline {chapter}{\numberline {68}ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β}{1147}{}%
+\contentsline {chapter}{\numberline {69}ΠΡΟΣ ΓΑΛΑΤΑΣ}{1155}{}%
+\contentsline {chapter}{\numberline {70}ΠΡΟΣ ΕΦΕΣΙΟΥΣ}{1159}{}%
+\contentsline {chapter}{\numberline {71}ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ}{1164}{}%
+\contentsline {chapter}{\numberline {72}ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ}{1167}{}%
+\contentsline {chapter}{\numberline {73}ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α}{1170}{}%
+\contentsline {chapter}{\numberline {74}ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β}{1173}{}%
+\contentsline {chapter}{\numberline {75}ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α}{1175}{}%
+\contentsline {chapter}{\numberline {76}ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β}{1179}{}%
+\contentsline {chapter}{\numberline {77}ΠΡΟΣ ΤΙΤΟΝ}{1182}{}%
+\contentsline {chapter}{\numberline {78}ΠΡΟΣ ΦΙΛΗΜΟΝΑ}{1184}{}%
+\contentsline {chapter}{\numberline {79}ΠΡΟΣ ΕΒΡΑΙΟΥΣ}{1185}{}%
+\contentsline {chapter}{\numberline {80}ΙΑΚΩΒΟΥ}{1194}{}%
+\contentsline {chapter}{\numberline {81}ΠΕΤΡΟΥ Α}{1198}{}%
+\contentsline {chapter}{\numberline {82}ΠΕΤΡΟΥ Β}{1202}{}%
+\contentsline {chapter}{\numberline {83}ΙΩΑΝΝΟΥ Α}{1205}{}%
+\contentsline {chapter}{\numberline {84}ΙΩΑΝΝΟΥ Β}{1209}{}%
+\contentsline {chapter}{\numberline {85}ΙΩΑΝΝΟΥ Γ}{1210}{}%
+\contentsline {chapter}{\numberline {86}ΙΟΥΔΑ}{1211}{}%
+\contentsline {chapter}{\numberline {87}ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ}{1213}{}%
+\contentsline {part}{III\hspace {1em}Extras}{1229}{}%
+\contentsline {chapter}{\numberline {88}ΨΑΛΜΟΙ ΣΟΛΟΜΩΝΤΟΣ}{1231}{}%
+\contentsline {chapter}{\numberline {89}ΜΑΚΚΑΒΑΙΩΝ Δʹ}{1237}{}%
+\contentsline {chapter}{\numberline {90}ΚΛΗΜΕΝΤΟΣ ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α}{1252}{}%
+\contentsline {chapter}{\numberline {91}ΚΛΗΜΕΝΤΟΣ ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β}{1269}{}%
+\contentsline {chapter}{\numberline {92}ΠΟΙΜΗΝ}{1274}{}%
+\contentsline {chapter}{\numberline {93}ΒΑΡΝΑΒΑ ΕΠΙΣΤΟΛΗ}{1320}{}%
+\contentsline {chapter}{\numberline {94}Διδαχη κυριου δια των δωδεκα αποστολων τοις εθνεσιν}{1331}{}%

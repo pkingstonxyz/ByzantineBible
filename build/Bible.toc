@@ -1,0 +1,95 @@
+\babel@toc {greek}{}\relax 
+\contentsline {section}{\numberline {1}ΓΕΝΕΣΙΣ}{1}{}%
+\contentsline {section}{\numberline {2}ΕΞΟΔΟΣ}{51}{}%
+\contentsline {section}{\numberline {3}ΛΕΥΙΤΙΚΟΝ}{91}{}%
+\contentsline {section}{\numberline {4}ΑΡΙΘΜΟΙ}{121}{}%
+\contentsline {section}{\numberline {5}ΔΕΥΤΕΡΟΝΟΜΙΟΝ}{163}{}%
+\contentsline {section}{\numberline {6}ΙΗΣΟΥΣ ΝΑΥΗ}{198}{}%
+\contentsline {section}{\numberline {7}ΙΗΣΟΥΣ}{199}{}%
+\contentsline {section}{\numberline {8}ΚΡΙΤΑΙ}{223}{}%
+\contentsline {section}{\numberline {9}ΡΟΥΘ}{247}{}%
+\contentsline {section}{\numberline {10}ΒΑΣΙΛΕΙΩΝ Α}{251}{}%
+\contentsline {section}{\numberline {11}ΒΑΣΙΛΕΙΩΝ Β}{282}{}%
+\contentsline {section}{\numberline {12}ΒΑΣΙΛΕΙΩΝ Γ}{310}{}%
+\contentsline {section}{\numberline {13}ΒΑΣΙΛΕΙΩΝ Δ}{343}{}%
+\contentsline {section}{\numberline {14}ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Α}{374}{}%
+\contentsline {section}{\numberline {15}ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Β}{400}{}%
+\contentsline {section}{\numberline {16}ΕΣΔΡΑΣ. Αʹ}{434}{}%
+\contentsline {section}{\numberline {17}ΕΣΔΡΑΣ}{450}{}%
+\contentsline {section}{\numberline {18}ΤΩΒΙΤ}{472}{}%
+\contentsline {section}{\numberline {19}ΙΟΥΔΙΘ}{481}{}%
+\contentsline {section}{\numberline {20}ΕΣΘΗΡ}{496}{}%
+\contentsline {section}{\numberline {21}ΜΑΚΚΑΒΑΙΩΝ Αʹ}{506}{}%
+\contentsline {section}{\numberline {22}ΜΑΚΚΑΒΑΙΩΝ Βʹ}{537}{}%
+\contentsline {section}{\numberline {23}ΜΑΚΚΑΒΑΙΩΝ Γʹ}{559}{}%
+\contentsline {section}{\numberline {24}ΨΑΛΜΟΙ}{568}{}%
+\contentsline {section}{\numberline {25}ΠΡΟΣΕΥΧΗ ΜΑΝΑΣΣΗ ΥΙΟΥ ΕΖΕΚΙΟΥ}{625}{}%
+\contentsline {section}{\numberline {26}ΙΩΒ}{626}{}%
+\contentsline {section}{\numberline {27}ΙΕΖΕΚΙΗΛ}{648}{}%
+\contentsline {section}{\numberline {28}ΠΑΡΟΙΜΙΑΙ ΕΑΛΩΜΩΝΤΟΣ}{656}{}%
+\contentsline {section}{\numberline {29}ΠΑΡΟΙΜΙΑΙ}{657}{}%
+\contentsline {section}{\numberline {30}ΕΚΚΛΗΣΙΑΣΤΗΣ}{675}{}%
+\contentsline {section}{\numberline {31}ΑΣΜΑ}{683}{}%
+\contentsline {section}{\numberline {32}ΣΟΦΙΑ ΣΑΛΩΜΩΝ}{686}{}%
+\contentsline {section}{\numberline {33}ΣΟΦΙΑ}{687}{}%
+\contentsline {section}{\numberline {34}ΣΟΦΙΑ ΣΕΙΡΑΧ}{698}{}%
+\contentsline {section}{\numberline {35}ΣΕΙΡΑΧ}{700}{}%
+\contentsline {section}{\numberline {36}ΩΣΗΕ. Αʹ}{731}{}%
+\contentsline {section}{\numberline {37}ΑΜΩΣ. Βʹ}{738}{}%
+\contentsline {section}{\numberline {38}ΜΙΧΑΙΑΣ. Γʹ}{743}{}%
+\contentsline {section}{\numberline {39}ΙΩΗΛ. Δʹ}{747}{}%
+\contentsline {section}{\numberline {40}ΟΒΔΕΙΟΥ. Εʹ}{750}{}%
+\contentsline {section}{\numberline {41}ΙΩΝΑΣ. ςʹ}{751}{}%
+\contentsline {section}{\numberline {42}ΝΑΟΥΜ. Ζʹ}{752}{}%
+\contentsline {section}{\numberline {43}ΑΜΒΑΚΟΥΜ. Ηʹ}{754}{}%
+\contentsline {section}{\numberline {44}ΜΑΛΑΧΙΑΣ. ΙΒʹ}{756}{}%
+\contentsline {section}{\numberline {45}ΣΟΦΟΝΙΑΣ. Θʹ}{757}{}%
+\contentsline {section}{\numberline {46}ΑΓΓΑΙΟΣ. Ιʹ}{759}{}%
+\contentsline {section}{\numberline {47}ΖΑΧΑΡΙΑΣ. ΙΑʹ}{761}{}%
+\contentsline {section}{\numberline {48}ΜΑΛΑΧΙΑΣ. ΙΒʹ}{769}{}%
+\contentsline {section}{\numberline {49}ΗΣΑΙΑΣ}{770}{}%
+\contentsline {section}{\numberline {50}ΙΕΡΕΜΙΑΣ}{815}{}%
+\contentsline {section}{\numberline {51}ΒΑΡΟΥΧ}{862}{}%
+\contentsline {section}{\numberline {52}ΘΡΗΝΟΙ ΙΕΡΕΜΙΟΥ}{867}{}%
+\contentsline {section}{\numberline {53}ΘΡΗΝΟΙ}{868}{}%
+\contentsline {section}{\numberline {54}ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ}{871}{}%
+\contentsline {section}{\numberline {55}ΙΕΖΕΚΙΗΛ}{873}{}%
+\contentsline {section}{\numberline {56}ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ}{913}{}%
+\contentsline {section}{\numberline {57}ΔΑΝΙΗΛ (Ελληνικά)}{914}{}%
+\contentsline {section}{\numberline {58}ΣΩΣΑΝΝΑ}{930}{}%
+\contentsline {section}{\numberline {59}ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ}{932}{}%
+\contentsline {section}{\numberline {60}ΚΑΤΑ ΙΩΑΝΝΗΝ}{934}{}%
+\contentsline {section}{\numberline {61}ΚΑΤΑ ΜΑΡΚΟΝ}{957}{}%
+\contentsline {section}{\numberline {62}ΚΑΤΑ ΜΑΘΘΑΙΟΝ}{976}{}%
+\contentsline {section}{\numberline {63}ΚΑΤΑ ΜΑΤΘΑΙΟΝ}{977}{}%
+\contentsline {section}{\numberline {64}ΚΑΤΑ ΛΟΥΚΑΝ}{1006}{}%
+\contentsline {section}{\numberline {65}ΠΡΑΞΕΙΣ ΑΠΟΣΤΟΛΩΝ}{1037}{}%
+\contentsline {section}{\numberline {66}ΠΡΟΣ ΡΩΜΑΙΟΥΣ}{1069}{}%
+\contentsline {section}{\numberline {67}ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α}{1080}{}%
+\contentsline {section}{\numberline {68}ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β}{1091}{}%
+\contentsline {section}{\numberline {69}ΠΡΟΣ ΓΑΛΑΤΑΣ}{1099}{}%
+\contentsline {section}{\numberline {70}ΠΡΟΣ ΕΦΕΣΙΟΥΣ}{1102}{}%
+\contentsline {section}{\numberline {71}ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ}{1106}{}%
+\contentsline {section}{\numberline {72}ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ}{1109}{}%
+\contentsline {section}{\numberline {73}ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α}{1112}{}%
+\contentsline {section}{\numberline {74}ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β}{1114}{}%
+\contentsline {section}{\numberline {75}ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α}{1115}{}%
+\contentsline {section}{\numberline {76}ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β}{1118}{}%
+\contentsline {section}{\numberline {77}ΠΡΟΣ ΤΙΤΟΝ}{1121}{}%
+\contentsline {section}{\numberline {78}ΠΡΟΣ ΦΙΛΗΜΟΝΑ}{1122}{}%
+\contentsline {section}{\numberline {79}ΠΡΟΣ ΕΒΡΑΙΟΥΣ}{1123}{}%
+\contentsline {section}{\numberline {80}ΙΑΚΩΒΟΥ}{1131}{}%
+\contentsline {section}{\numberline {81}ΠΕΤΡΟΥ Α}{1134}{}%
+\contentsline {section}{\numberline {82}ΠΕΤΡΟΥ Β}{1137}{}%
+\contentsline {section}{\numberline {83}ΙΩΑΝΝΟΥ Α}{1139}{}%
+\contentsline {section}{\numberline {84}ΙΩΑΝΝΟΥ Β}{1142}{}%
+\contentsline {section}{\numberline {85}ΙΩΑΝΝΟΥ Γ}{1143}{}%
+\contentsline {section}{\numberline {86}ΙΟΥΔΑ}{1143}{}%
+\contentsline {section}{\numberline {87}ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ}{1144}{}%
+\contentsline {section}{\numberline {88}ΨΑΛΜΟΙ ΣΟΛΟΜΩΝΤΟΣ}{1159}{}%
+\contentsline {section}{\numberline {89}ΜΑΚΚΑΒΑΙΩΝ Δʹ}{1165}{}%
+\contentsline {section}{\numberline {90}ΚΛΗΜΕΝΤΟΣ ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α}{1179}{}%
+\contentsline {section}{\numberline {91}ΚΛΗΜΕΝΤΟΣ ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β}{1196}{}%
+\contentsline {section}{\numberline {92}ΠΟΙΜΗΝ}{1200}{}%
+\contentsline {section}{\numberline {93}ΒΑΡΝΑΒΑ ΕΠΙΣΤΟΛΗ}{1246}{}%
+\contentsline {section}{\numberline {94}Διδαχη κυριου δια των δωδεκα αποστολων τοις εθνεσιν}{1257}{}%
